@@ -1,3 +1,6 @@
+# author: Muhammet Bastan, mubastan@gmail.com
+# date: July 2012
+
 import os
 import glob
 import numpy
