@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 
+# author: Muhammet Bastan, mubastan@gmail.com
+# date: July 2012
+
 # This is for ID annotation of objects, July 5, 2012
 
 import sys
