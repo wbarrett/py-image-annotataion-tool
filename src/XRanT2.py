@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 
+# author: Muhammet Bastan, mubastan@gmail.com
+# date: August 2011
+
 import sys
 import os
 import functools
